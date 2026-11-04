@@ -25,6 +25,15 @@ HTML, CSS, JavaScript
 
 ## Ekran Görüntüleri
 
+### Ana Sayfa
+![Ana Sayfa](01-anasayfa.png)
+
+### Telefonlarımız
+![Telefonlarımız](02-telefonlar.png)
+
+### Tarih Uygunluğu Formu
+![Tarih Uygunluğu Formu](03-tarih-uygunlugu.png)
+
 
 
 ## İletişim
