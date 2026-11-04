@@ -35,7 +35,6 @@ HTML, CSS, JavaScript
 ![Tarih Uygunluğu Formu](03-tarih-uygunlugu.png)
 
 
-
 ## İletişim
 
 Proje hakkında soru ya da geri bildirim için: www.linkedin.com/in/nisanur-kurtuluş-768963281
